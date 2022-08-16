@@ -19,9 +19,8 @@
 ## Contents
 
   * [Getting started](#getting-started)
-
-
-  * [Methods](#methods)
+  * [Requirements](#requirements)
+  * [Instructions](#instructions)
   * [Environment Variables](#environment-variables)
   * [Running Tests](#running-tests)
   * [Usage/Examples](#usage-examples)
@@ -46,16 +45,43 @@ $ pip install pyTelegramBotAPI
 ```
 * Installation from source (requires git):
 
-## Requirements
 
-* [ESP32 - working on this board](https://www.banggood.com/WeMos-WiFi-Bluetooth-Battery-ESP32-Development-Tool-p-1164436.html?p=QW0903761303201409LG)
-* [MicroPython for ESP32](http://micropython.org/download#esp32)
 
 Requirements
 ---------
 * [ESP32 - working on this board](https://www.banggood.com/WeMos-WiFi-Bluetooth-Battery-ESP32-Development-Tool-p-1164436.html?p=QW0903761303201409LG)
 * [MicroPython for ESP32](http://micropython.org/download#esp32)
 
+Instructions
+---------
+* Install MicroPython on the ESP32, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
+* Modify the following lines in the `boot.py`
+  * ssid_ = `<your ssid>`
+  * wp2_pass = `<your wpa2 password>`
+* Modify the `main.py` file if you want to:
+  * The code line
+  ```python
+  ws2812_chain =  WS2812(ledNumber=ledNumber, brightness=100)
+  ```
+	defines the WS2812 LED strip. The argument `ledNumber` defines the size of the LED strip. In my case, I used 144 LEDs.
+  * The code lines
+  ```python
+    devices = [
+        {"description": "white led",
+         "port": 12340,
+         "handler": rest_api_handler((255,255,255), 50)},
+         ... ]
+    ```
+	define the devices that are going to be found by Amazon Echo. Please read [this article](https://goo.gl/ccpGhL) for more information;
+* Upload the code to the WeMos board;
+* Connect the LED strip and restart the board;
+* Start a device search from Amazon Echo. You can use the Alexa application, or just say, "echo/alexa, search for new devices" and wait;
+* Say, "echo/alexa, turn on the <your device name>", it should work.
+
+Changelog
+---------
+* Revision: 1.1 - Code cleaned and added support for Amazon Echo (2nd Generation) using [this info](https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch/issues/22).
+* Revision: 1.0 - Initial commit
 
 ## Environment Variables
 
