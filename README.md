@@ -1,4 +1,4 @@
-# esp32ledRGB
+# Esp32-S2 RGB Blinking
 
 # <p align="center">ESP32 RGB Blinking
 
