@@ -48,11 +48,8 @@ $ pip install pyTelegramBotAPI
 
 ## Requirements
 
-    WeMos (ESP32 - working on this board)
-    NodeMcu Lua WIFI ESP8266 (next release -not tested yet)
-    INR18650 3.7v Battery
-    WS2812B LED strip
-    MicroPython for ESP32
+* [ESP32 - working on this board](https://www.banggood.com/WeMos-WiFi-Bluetooth-Battery-ESP32-Development-Tool-p-1164436.html?p=QW0903761303201409LG)
+* [MicroPython for ESP32](http://micropython.org/download#esp32)
 
 Requirements
 ---------
