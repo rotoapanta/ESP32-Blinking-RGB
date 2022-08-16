@@ -7,14 +7,14 @@
 ##
 
 ![Python Version](https://img.shields.io/pypi/pyversions/3)
-[![GitHub issues](https://img.shields.io/github/issues/rotoapanta/guralpStateOfHealh)](https://github.com/rotoapanta/guralpStateOfHealh/issues)
-![GitHub repo size](https://img.shields.io/github/repo-size/rotoapanta/guralpStateOfHealh)
-![GitHub last commit](https://img.shields.io/github/last-commit/rotoapanta/guralpStateOfHealh)
+[![GitHub issues](https://img.shields.io/github/issues/rotoapanta/esp32ledRGB)](https://github.com/rotoapanta/esp32ledRGB/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/rotoapanta/esp32ledRGB)
+![GitHub last commit](https://img.shields.io/github/last-commit/rotoapanta/esp32ledRGB)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/rotoapanta/prueba2/main/6a500cc65d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Discord](https://img.shields.io/discord/996422496842694726)
 [![Discord Invite](https://img.shields.io/badge/discord-join%20now-green)](https://discord.gg/pSAp2qXe)
-![GitHub forks](https://img.shields.io/github/forks/rotoapanta/guralpStateOfHealh?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rotoapanta/esp32ledRGB?style=social)
 
 ## Contents
 
