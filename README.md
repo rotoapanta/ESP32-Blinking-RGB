@@ -32,16 +32,11 @@
 
 ## Getting started
 
-This document is the creation of a Readme.rm template for future projects.
+### Getting started with MicroPython on the ESP32¶
 
-There are two ways to install the library:
+Using MicroPython is a great way to get the most of your ESP32 board. And vice versa, the ESP32 chip is a great platform for using MicroPython. This tutorial will guide you through setting up MicroPython, getting a prompt, using WebREPL, connecting to the network and communicating with the Internet, using the hardware peripherals, and controlling some external components.
 
-* Installation using pip (a Python package manager):
-
-```
-$ pip install pyTelegramBotAPI
-```
-* Installation from source (requires git):
+Let’s get started!
 
 
 
