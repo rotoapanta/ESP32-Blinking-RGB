@@ -58,6 +58,10 @@ Using MicroPython is a great way to get the most of your ESP32 board. And vice v
 ## Instructions
 
 * Install MicroPython on the ESP32, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
+
+![Image text](https://github.com/rotoapanta/esp32ledRGB/main/images/1.png)
+
+
 * Create the main.py
 * Modify the `main.py` file if you want to:
   * The code line
