@@ -34,22 +34,10 @@
 
 ### Getting started with MicroPython on the ESP32¶
 
-#<div style="text-align: justify">
- 
 Using MicroPython is a great way to get the most of your ESP32 board. And vice versa, the ESP32 chip is a great platform for using MicroPython. This tutorial will guide you through setting up MicroPython, getting a prompt, using WebREPL, connecting to the network and communicating with the Internet, using the hardware peripherals, and controlling some external components.
 
 Let’s get started!
-#<div/>
-
- <p align"justify"> 
-Using MicroPython is a great way to get the most of your ESP32 board. And vice versa, the ESP32 chip is a great platform for using MicroPython. This tutorial will guide you through setting up MicroPython, getting a prompt, using WebREPL, connecting to the network and communicating with the Internet, using the hardware peripherals, and controlling some external components. </p>
-
-
-
-<p style='text-align: right;'> Your Text </p> 
-
  
-
 ## Requirements
 
 * [ESP32 - working on this board](https://www.banggood.com/WeMos-WiFi-Bluetooth-Battery-ESP32-Development-Tool-p-1164436.html?p=QW0903761303201409LG)
