@@ -47,8 +47,11 @@ Let’s get started!
 
 * Install MicroPython on the ESP32, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
 
-![Image text](https://github.com/rotoapanta/esp32ledRGB/main/images/1.png)
+![Image text](/images/1.png)
 
+![Image text](/images/2.png)
+
+![Image text](/images/3.png)
 
 * Create the main.py
 * Modify the `main.py` file if you want to:
