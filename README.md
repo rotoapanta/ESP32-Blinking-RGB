@@ -43,6 +43,7 @@ Let’s get started!
 * [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
 
 ## Description of Components
+![Description of Components](./images/esp32-s2-saola-1-v1.2.png)
 
 ## Power Supply Options
 
@@ -55,7 +56,7 @@ There are three mutually exclusive ways to provide power to the board:
 It is recommended to use the first option: Micro-USB Port.
 
 ## Pin Layout
-![Pin Layout](./images/esp32-s2_saola1-pinout.jpg)
+![Pin Layout](./images/esp32-s2-saola1-pinout.jpg)
 
 
 ## Instructions
