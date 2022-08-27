@@ -40,6 +40,7 @@ Let’s get started!
 
 * [ESP32 - working on this board](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html)
 * [MicroPython for ESP32](http://micropython.org/download#esp32)
+* [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
 
 ## Instructions
 
@@ -51,6 +52,7 @@ Let’s get started!
 
 ![Image text](./images/Copia_3.png)
 
+* Identificar el GPIO del LED RGB
 
 * Create the main.py
 * Modify the `main.py` file if you want to:
