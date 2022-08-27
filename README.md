@@ -51,7 +51,7 @@ Let’s get started!
 
 ![Image text](./images/2.png)
 
-![Image text](./images/3.png)
+![Image text](./images/Copia_3.png)
 
 
 * Create the main.py
