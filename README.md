@@ -42,6 +42,22 @@ Let’s get started!
 * [MicroPython for ESP32](http://micropython.org/download#esp32)
 * [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
 
+## Description of Components
+
+## Power Supply Options
+
+There are three mutually exclusive ways to provide power to the board:
+
+* Micro-USB port, default power supply
+* 5V and GND pin headers
+* 3V3 and GND pin headers
+
+It is recommended to use the first option: Micro-USB Port.
+
+## Pin Layout
+![Pin Layout](./images/pin_layout.png)
+
+
 ## Instructions
 
 * Install MicroPython on the ESP32, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
