@@ -55,7 +55,7 @@ There are three mutually exclusive ways to provide power to the board:
 It is recommended to use the first option: Micro-USB Port.
 
 ## Pin Layout
-![Pin Layout](./images/pin_layout.png)
+![Pin Layout](./images/esp32-s2_saola1-pinout.jpg)
 
 
 ## Instructions
