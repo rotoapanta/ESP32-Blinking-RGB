@@ -43,7 +43,8 @@ Let’s get started!
 * [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
 
 ## Description of Components
-![Description of Components](./images/esp32-s2-saola-1-v1.2.png)
+
+![esp32-s2-saola-1-v1 2](https://user-images.githubusercontent.com/16738424/187048221-2b4044f2-b21a-4bbe-9c9f-85ab6a8721bb.png)
 
 ## Power Supply Options
 
