@@ -38,7 +38,7 @@ Let’s get started!
  
 ## Requirements
 
-* [ESP32 - working on this board](https://www.banggood.com/WeMos-WiFi-Bluetooth-Battery-ESP32-Development-Tool-p-1164436.html?p=QW0903761303201409LG)
+* [ESP32 - working on this board](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html)
 * [MicroPython for ESP32](http://micropython.org/download#esp32)
 
 ## Instructions
