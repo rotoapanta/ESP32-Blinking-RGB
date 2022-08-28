@@ -17,7 +17,7 @@
 [![Discord Invite](https://img.shields.io/badge/discord-join%20now-green)](https://discord.gg/pSAp2qXe)
 ![GitHub forks](https://img.shields.io/github/forks/rotoapanta/ESP32-Blinking-RGB-Led?style=social)
 
-## Contents
+# Contents
 
   * [Getting started](#getting-started)
     * [Requirements](#requirements)
@@ -32,9 +32,9 @@
   * [Autors](#autors)
   * [Links](#links)
 
-## Getting started
+# Getting started
 
-### Getting started with MicroPython on the ESP32
+## Getting started with MicroPython on the ESP32
 
 Using MicroPython is a great way to get the most of your ESP32 board. And vice versa, the ESP32 chip is a great platform for using MicroPython. This tutorial will guide you through setting up MicroPython, getting a prompt, using WebREPL, connecting to the network and communicating with the Internet, using the hardware peripherals, and controlling some external components.
 
@@ -63,8 +63,7 @@ There are three mutually exclusive ways to provide power to the board:
 ## Pin Layout
 ![esp32-s2-saola1-pinout](https://user-images.githubusercontent.com/16738424/187049261-8ccb55c8-75af-4fb4-b2c2-04de95fb5af5.jpg)
 
-
-## Instructions
+# Instructions
 
 * Install MicroPython on the ESP32, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
 
