@@ -20,8 +20,11 @@
 # Contents
 
   * [Getting started](#getting-started)
+    * [Getting started with MicroPython on the ESP32](#getting-started-with-micropython-on-the-esp32)
     * [Requirements](#requirements)
     * [Description of Components](#description-of-components)
+    * [Power Supply Options](#power-supply-options)
+    * [Pin Layout](#pin-layout)
   * [Instructions](#instructions)
   * [Environment Variables](#environment-variables)
   * [Running Tests](#running-tests)
@@ -42,9 +45,9 @@ Let’s get started!
  
 ## Requirements
 
-* [ESP32 - working on this board](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html)
-* [MicroPython for ESP32](http://micropython.org/download#esp32)
-* [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
+  * [ESP32 - working on this board](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html)
+  * [MicroPython for ESP32](http://micropython.org/download#esp32)
+  * [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
 
 ## Description of Components
 
@@ -54,9 +57,9 @@ Let’s get started!
 
 There are three mutually exclusive ways to provide power to the board:
 
-* Micro-USB port, default power supply
-* 5V and GND pin headers
-* 3V3 and GND pin headers
+  * Micro-USB port, default power supply
+  * 5V and GND pin headers
+  * 3V3 and GND pin headers
 
 **_It is recommended to use the first option: Micro-USB Port._**
 
@@ -67,11 +70,6 @@ There are three mutually exclusive ways to provide power to the board:
 
 * Install MicroPython on the ESP32, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
 
-![Image text](./images/1.png)
-
-![Image text](./images/2.png)
-
-![Image text](./images/Copia_3.png)
 
 * Identificar el GPIO del LED RGB
 
