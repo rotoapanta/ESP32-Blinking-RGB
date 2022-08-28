@@ -20,7 +20,8 @@
 ## Contents
 
   * [Getting started](#getting-started)
-  * [Requirements](#requirements)
+    * [Requirements](#requirements)
+    * [Description of Components](#description-of-components)
   * [Instructions](#instructions)
   * [Environment Variables](#environment-variables)
   * [Running Tests](#running-tests)
