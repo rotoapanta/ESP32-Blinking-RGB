@@ -138,7 +138,7 @@ More Info:
   * [How to Make Amazon Echo Control Fake Wemo Devices](http://hackaday.com/2015/07/16/how-to-make-amazon-echo-control-fake-wemo-devices/)
   * [Virtual Wemo Code for Amazon Echo](http://www.makermusings.com/2015/07/18/virtual-wemo-code-for-amazon-echo)
   * [Home Automation with Amazon Echo Apps, Part 1](http://www.makermusings.com/2015/07/19/home-automation-with-amazon-echo-apps-part-1/)
-* [Alexa Skills Kit](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit)
+* [NeoPixeles](https://learn.adafruit.com/esenciales-para-circuitpython/neopixeles-circuitpython)
 * [Flask-Ask: A New Python Framework for Rapid Alexa Alexa Skills Kit Development](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
 * 
 
