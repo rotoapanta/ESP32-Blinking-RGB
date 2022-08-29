@@ -133,14 +133,8 @@ More Info:
 * [MicroPython Tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started)
 * [Universal Plug&Play](https://en.wikipedia.org/wiki/Universal_Plug_and_Play)
 * [Node-red WEMO Emulator](http://flows.nodered.org/node/node-red-contrib-wemo-emulator)
-* Chris(derossi) links:
-  * [Amazon Echo & Home-Automation](http://www.makermusings.com/2015/07/13/amazon-echo-and-home-automation/)
-  * [How to Make Amazon Echo Control Fake Wemo Devices](http://hackaday.com/2015/07/16/how-to-make-amazon-echo-control-fake-wemo-devices/)
-  * [Virtual Wemo Code for Amazon Echo](http://www.makermusings.com/2015/07/18/virtual-wemo-code-for-amazon-echo)
-  * [Home Automation with Amazon Echo Apps, Part 1](http://www.makermusings.com/2015/07/19/home-automation-with-amazon-echo-apps-part-1/)
 * [NeoPixeles](https://learn.adafruit.com/esenciales-para-circuitpython/neopixeles-circuitpython)
-* [Flask-Ask: A New Python Framework for Rapid Alexa Alexa Skills Kit Development](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
-* 
+* [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
