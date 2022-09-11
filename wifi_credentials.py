@@ -8,4 +8,4 @@
 #password = 'admin12345' #Contraseña de la red
 
 ssid = 'LGRC'  #Nombre de la Red
-password = '2706@09RG' #Contraseña de la red
+password = '2706@09rg' #Contraseña de la red
